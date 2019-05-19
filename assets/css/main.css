@@ -3130,7 +3130,7 @@ footer {
 }
 
 
-@media (max-width: 991px) {
+@media  (max-width: 991px) {
   .row-first {
     flex-direction: column;
   }
